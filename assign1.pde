@@ -63,9 +63,9 @@ void draw() {
       // -------------------------------------------------
       // put your code inside here
       
-      int r=int(random(5));
-      int s=int(random(5));
-      int t=int(random(5));
+      int r=int(random(6));
+      int s=int(random(6));
+      int t=int(random(6));
       machine.setSlotFruit(0, r);
       machine.setSlotFruit(1, s);
       machine.setSlotFruit(2, t);
